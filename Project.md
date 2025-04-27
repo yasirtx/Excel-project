@@ -5,9 +5,9 @@ Project objective:
 
 1. Create a customer performance report
 
-<a href="https://github.com/yasirtx/Excel-project/blob/main/Customer%20performance%20report...pdf"> Data set view<a>
+<a href="https://github.com/yasirtx/Excel-project/blob/main/Customer%20performance%20report...pdf"> 
 2. Conduct a comprehensive comparison between market performance and sales targets
-< a href="https://github.com/yasirtx/Excel-project/blob/main/Market%20Performance%20vs%20Target.pdf"> Data set view<a>
+< a href="https://github.com/yasirtx/Excel-project/blob/main/Market%20Performance%20vs%20Target.pdf"> 
 
 Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -19,10 +19,10 @@ Finance Report :
 Project objective:
 
 1. Create Profit and Loss (P&L) reports by Fiscal Year 
-< a href="https://github.com/yasirtx/Excel-project/blob/main/P%26L%20By%20Fiscal%20Year.pdf"> Data set view <a>
+< a href="https://github.com/yasirtx/Excel-project/blob/main/P%26L%20By%20Fiscal%20Year.pdf"> 
 
 3. create  P & L months
-<a href ="https://github.com/yasirtx/Excel-project/blob/main/P%20%26%20L%20Months.pdf"> Data set view <a>
+<a href ="https://github.com/yasirtx/Excel-project/blob/main/P%20%26%20L%20Months.pdf">
 
 Purpose of sales analytics: Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
