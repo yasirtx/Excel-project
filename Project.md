@@ -1,15 +1,15 @@
 
-**Sales Report :
+Sales Report :
 
 Project objective:
-**
-1.** Create a customer performance report**
 
- "https://github.com/yasirtx/Excel-project/blob/main/Customer%20performance%20report...pdf"
+1. Create a customer performance report
+
+ https://github.com/yasirtx/Excel-project/blob/main/Customer%20performance%20report...pdf
   
-2.** Conduct a comprehensive comparison between market performance and sales targets**
+2. Conduct a comprehensive comparison between market performance and sales targets
   
-< a href="https://github.com/yasirtx/Excel-project/blob/main/Market%20Performance%20vs%20Target.pdf"> 
+https://github.com/yasirtx/Excel-project/blob/main/Market%20Performance%20vs%20Target.pdf
 
 Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -17,16 +17,16 @@ Importance of analyzing sales data: Identify sales patterns and track key perfor
 
 Role of reports: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
-**Finance Report :
+Finance Report :
 Project objective:
-**
-1**. Create Profit and Loss (P&L) reports by Fiscal Year**
 
-< a href="https://github.com/yasirtx/Excel-project/blob/main/P%26L%20By%20Fiscal%20Year.pdf"> 
+3. Create Profit and Loss (P&L) reports by Fiscal Year.
 
-3. **create  P & L months**
+https://github.com/yasirtx/Excel-project/blob/main/P%26L%20By%20Fiscal%20Year.pdf
 
-<a href ="https://github.com/yasirtx/Excel-project/blob/main/P%20%26%20L%20Months.pdf">
+4.create  P & L months
+
+https://github.com/yasirtx/Excel-project/blob/main/P%20%26%20L%20Months.pdf
 
 Purpose of sales analytics: Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
@@ -34,7 +34,7 @@ Importance of analyzing Finance data: Aid in benchmarking against industry peers
 
 Role of reports: Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
-**Technical & Soft Skills**:
+Technical & Soft Skills:
 
  Proficiency in ETL methodology (Extract, Transform, Load).
  
@@ -47,7 +47,7 @@ Role of reports: Align financial planning with strategic goals Instill confidenc
  Proficiency in incorporating supplementary data into an existing data model.
  
  Utilizing DAX to create calculated columns.
-**Soft Skills**:
+Soft Skills:
 
  Refined understanding of Sales & Finance Reports
  
