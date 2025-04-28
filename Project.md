@@ -1,5 +1,5 @@
 
-Sales Report :
+# Sales Report :
 
 Project objective:
 
@@ -17,7 +17,7 @@ Importance of analyzing sales data: Identify sales patterns and track key perfor
 
 Role of reports: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
-Finance Report :
+# Finance Report :
 Project objective:
 
 3. Create Profit and Loss (P&L) reports by Fiscal Year.
@@ -34,7 +34,7 @@ Importance of analyzing Finance data: Aid in benchmarking against industry peers
 
 Role of reports: Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
-Technical & Soft Skills:
+# Technical & Soft Skills:
 
  Proficiency in ETL methodology (Extract, Transform, Load).
  
